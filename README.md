@@ -45,4 +45,4 @@ LinkedIn: [@josephakaro](https://www.linkedin.com/in/josephakaro)
 <br>
 GitHub: [@joseph-akaro](https://github.com/joseph-akaro)
 <br>
-Email: [joseph@josephakaro.site](joseph@josephakaro.site)
+Email: [joseph@josephakaro.com](joseph@josephakaro.com)
