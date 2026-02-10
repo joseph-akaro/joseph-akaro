@@ -4,6 +4,9 @@
 I’m a passionate software engineer focused on building clean, scalable, and reliable digital solutions.  
 My work spans full-stack development, WordPress engineering, API integrations, and open-source projects that empower businesses and developers across East Africa.
 
+[![committers.top badge](https://user-badge.committers.top/south_sudan/USERNAME.svg)](https://user-badge.committers.top/south_sudan/joseph-akaro)
+
+
 <br>
 
 ## 🚀 About Me
