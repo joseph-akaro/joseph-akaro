@@ -4,8 +4,6 @@
 I’m a passionate software engineer focused on building clean, scalable, and reliable digital solutions.  
 My work spans full-stack development, WordPress engineering, API integrations, and open-source projects that empower businesses and developers across East Africa.
 
-[![Check out joseph-akaro's profile on stardev.io](https://stardev.io/developers/joseph-akaro/badge/languages/global.svg)](https://stardev.io/developers/joseph-akaro)
-
 <br>
 
 ## 🚀 About Me
